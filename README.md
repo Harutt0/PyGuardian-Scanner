@@ -30,7 +30,7 @@ The objective of this project is to provide a fast and reliable port scanner tha
 
 ---
 
-🚀Getting Started
+🚀 Getting Started
 
 1. Installation
 Clone the repository to your local machine:
