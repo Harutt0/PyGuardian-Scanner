@@ -35,5 +35,5 @@ The objective of this project is to provide a fast and reliable port scanner tha
 1. Installation
 Clone the repository to your local machine:
 ```bash
-git clone [https://github.com/CryzZ1/PyGuardian-Scanner.git](https://github.com/CryzZ1/PyGuardian-Scanner.git)
+git clone https://github.com/Harutt0/PyGuardian-Scanner
 cd PyGuardian-Scanner
