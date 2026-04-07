@@ -18,4 +18,4 @@ Inspired by professional security reconnaissance tools.
 
 Thank you for checking out this project! If you like it, feel free to leave a ⭐.
 
-Developed with passion by CryzZ1
+Developed with passion by Harutt0
